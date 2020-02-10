@@ -70,7 +70,7 @@
 
             <div class="content">
                 <div class="title m-b-md" >
-                <img src="{{ url('images/bgl.png')}}"   > </div>
+                <img src="{{ url('uploads/bgl.png')}}"   > </div>
                 </div>
 
                 <div class="links">
